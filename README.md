@@ -15,22 +15,24 @@ Workers代码：[点此查看>>](https://raw.githubusercontent.com/zizifn/edgetu
 UUID在线生成：[点击进入>>](https://1024tools.com/uuid/)
 
 ProxyIP： 可以替换成域名或优选IP（附后：更多 ProxyIP 列表）  
-workers.cloudflare.cyou
+proxyip.us.fxxk.dedyn.io
 
-**3、IP 优选工具**  
-CF 优选 IP Windows 工具：[点击下载](https://github.com/badafans/better-cloudflare-ip/releases/download/20221201/batch.zip)  
-若是速度不理想，可以自行优选 CF IP ，来进行提速！运行 IP 优选的时候，请关闭代理，这样会更准确！记得不要使用 TLS 优选！
 
-**4、翻墙软件**  
+**3、翻墙软件**  
 Windows电脑：v2rayN下载 [点击下载>>](https://github.com/2dust/v2rayN/releases/download/6.45/zz_v2rayN-With-Core-SelfContained.7z)  
 安卓：v2rayNG [点击下载>>](https://github.com/2dust/v2rayNG/releases)  
 iOS/MAC：使用Shadowrocket小火箭
 
-**5、节点设置**  
+**4、节点设置**  
 acsg3.cloudflarest.link  
 acsg.cloudflarest.link  
 acjp2.cloudflarest.link  
-添加两个节点，一个是443端口，将节点地址换成优选域名，443端口节点需启用分片；另一个节点端口2082，关闭TLS。
+添加两个节点，一个是443端口，将节点地址换成优选域名，删除SNI，443端口节点需启用分片；另一个节点端口2082，关闭TLS。
+
+**5、IP 优选工具**  
+CF 优选 IP Windows 工具：[点击下载](https://github.com/badafans/better-cloudflare-ip/releases/download/20221201/batch.zip)  
+若是速度不理想，可以自行优选 CF IP ，来进行提速！运行 IP 优选的时候，请关闭代理，这样会更准确！记得不要使用 TLS 优选！
+
 
 **更多 proxyIP 列表：**
 
