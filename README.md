@@ -4,19 +4,35 @@
 
 视频教程：
 
-准备工作：
+## 准备工作：
 
-1、注册 Cloudflare 账号，注册地址：[点击注册](https://dash.cloudflare.com/1fd6ef1f052a191089c7a5628aa6f5a7)
-2、CloudFlare 部署免费节点
+**1、注册 Cloudflare 账号**，注册地址：[点击注册](https://dash.cloudflare.com/1fd6ef1f052a191089c7a5628aa6f5a7)
+
+**2、CloudFlare 部署免费节点**
+
 Workers代码：[点此查看>>](https://raw.githubusercontent.com/zizifn/edgetunnel/main/src/worker-vless.js)
- UUID在线生成：[点击进入>>](https://1024tools.com/uuid/)
 
-proxyIP可以替换成域名或者优选IP：
+UUID在线生成：[点击进入>>](https://1024tools.com/uuid/)
+
+ProxyIP：可以替换成域名或优选IP（附后）
 workers.cloudflare.cyou
 
-更多 proxyIP 列表：
+**3、IP 优选工具**
 
-CM 维护
+CF 优选 IP Windows 工具：[点击下载](https://github.com/badafans/better-cloudflare-ip/releases/download/20221201/batch.zip)
+
+若是速度不理想，可以自行优选 CF IP ，来进行提速！运行 IP 优选的时候，请关闭代理，这样会更准确！记得不要使用 TLS 优选！
+
+**4、翻墙软件**
+
+Windows电脑：v2rayN下载 [点击下载>>](https://github.com/2dust/v2rayN/releases/download/6.45/zz_v2rayN-With-Core-SelfContained.7z)
+安卓：v2rayNG [点击下载>>](https://github.com/2dust/v2rayNG/releases)
+iOS/MAC：使用Shadowrocket小火箭
+
+
+**更多 proxyIP 列表：**
+
+<code> **CM 维护** </code>
 
 proxyip.us.fxxk.dedyn.io 
 
@@ -46,13 +62,13 @@ proxyip.digitalocean.fxxk.dedyn.io
 
 IP落地区域: 数码海 维护频率: 4小时/次
 
- 
-白嫖哥维护
 
+<code> **白嫖哥维护** </code>
+ 
 workers.cloudflare.cyou
 
- 
-Mingyu维护
+<code> **Mingyu维护** </code> 
+
 
 my-telegram-is-herocore.onecf.eu.org
 
@@ -66,8 +82,7 @@ jp.ipdb.rr.nu
 
 us.ipdb.rr.nu
 
- 
-小一维护
+<code> **小一维护** </code>
 
 hk.cf.zhetengsha.eu.org
 
