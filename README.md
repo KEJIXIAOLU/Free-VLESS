@@ -68,3 +68,6 @@ hk.cf.zhetengsha.eu.org
 sg.cf.zhetengsha.eu.org  
 us.cf.zhetengsha.eu.org  
 jp.cf.zhetengsha.eu.org
+
+
+**详细教程请访问**：[科技小露博客](https://www.kejixiaolu.com/)
