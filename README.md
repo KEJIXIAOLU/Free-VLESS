@@ -26,6 +26,11 @@ Windows电脑：v2rayN下载 [点击下载>>](https://github.com/2dust/v2rayN/re
 安卓：v2rayNG [点击下载>>](https://github.com/2dust/v2rayNG/releases)  
 iOS/MAC：使用Shadowrocket小火箭
 
+**5、节点设置**
+acsg3.cloudflarest.link
+acsg.cloudflarest.link
+acjp2.cloudflarest.link
+添加两个节点，一个是443端口，将节点地址换成优选域名，443端口节点需启用分片；另一个节点端口2082，关闭TLS。
 
 **更多 proxyIP 列表：**
 
