@@ -14,7 +14,8 @@ Workers代码：[点此查看>>](https://raw.githubusercontent.com/zizifn/edgetu
 
 UUID在线生成：[点击进入>>](https://1024tools.com/uuid/)
 
-ProxyIP：可以替换成域名或优选IP（附后）
+ProxyIP： 可以替换成域名或优选IP（附后）
+
 workers.cloudflare.cyou
 
 **3、IP 优选工具**
@@ -26,7 +27,9 @@ CF 优选 IP Windows 工具：[点击下载](https://github.com/badafans/better-
 **4、翻墙软件**
 
 Windows电脑：v2rayN下载 [点击下载>>](https://github.com/2dust/v2rayN/releases/download/6.45/zz_v2rayN-With-Core-SelfContained.7z)
+
 安卓：v2rayNG [点击下载>>](https://github.com/2dust/v2rayNG/releases)
+
 iOS/MAC：使用Shadowrocket小火箭
 
 
