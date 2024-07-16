@@ -14,7 +14,7 @@ Workers代码：[点此查看>>](https://raw.githubusercontent.com/zizifn/edgetu
 
 UUID在线生成：[点击进入>>](https://1024tools.com/uuid/)
 
-ProxyIP： 可以替换成域名或优选IP（附后）  
+ProxyIP： 可以替换成域名或优选IP（附后：更多 ProxyIP 列表）  
 workers.cloudflare.cyou
 
 **3、IP 优选工具**  
