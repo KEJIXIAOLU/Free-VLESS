@@ -24,14 +24,10 @@ Windows电脑：v2rayN下载 [点击下载>>](https://github.com/2dust/v2rayN/re
 iOS/MAC：使用Shadowrocket小火箭
 
 **4、节点设置**  
-acsg3.cloudflarest.link  
-acsg.cloudflarest.link  
-acjp2.cloudflarest.link  
-添加两个节点，一个是443端口，将节点地址换成优选域名，删除SNI，443端口节点需启用分片；另一个节点端口2082，关闭TLS。
-
-**5、IP 优选工具**  
-CF 优选 IP Windows 工具：[点击下载](https://github.com/badafans/better-cloudflare-ip/releases/download/20221201/batch.zip)  
+添加两个节点，一个是443端口，将节点地址换成优选域名，删除SNI，443端口节点需启用分片；另一个节点端口2082，关闭TLS。  
+CF 优选 IP Windows 工具：[点击下载](https://github.com/badafans/better-cloudflare-ip/releases/download/20221201/batch.zip)   
 若是速度不理想，可以自行优选 CF IP ，来进行提速！运行 IP 优选的时候，请关闭代理，这样会更准确！记得不要使用 TLS 优选！
+
 
 
 **更多 proxyIP 列表：**
